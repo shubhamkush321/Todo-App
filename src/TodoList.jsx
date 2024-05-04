@@ -58,7 +58,7 @@ export default function TodoList() {
         return todo;
       })
     );
-    setEditingId(null);
+    // setEditingId(null);
   };
 
   return (
