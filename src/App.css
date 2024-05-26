@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+#undo{
+  cursor: pointer;
+  margin-left: 1rem;
+  margin-right: -1rem;
+}
